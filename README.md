@@ -1,7 +1,7 @@
 # multiPCA9685 Library
 
 ## Description
-The `multiPCA9685` library is designed to manage and control an unlimited number of PCA9685 devices via a single object. This simplifies the control of large numbers of PWM devices (such as servos or LEDs) by abstracting the management of multiple I2C devices into a single controller class.
+The `multiPCA9685` library is designed to manage and control an unlimited number of PCA9685 devices via a single object. This simplifies the control of large numbers of PWM devices (such as servos or LEDs) by abstracting the management of multiple I2C devices into a single controller class. This library is constructed and tested on Ubuntu 22.04 using Raspberry Pi 4b. An arduino IDE version is in progress.
 
 ## Author
 - **Will Hickmott**  
